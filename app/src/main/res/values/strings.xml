@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityTransfer</string>
+    <string name="to_first_activity">To First Activity</string>
+    <string name="to_second_activity">To Second Activity</string>
+</resources>
